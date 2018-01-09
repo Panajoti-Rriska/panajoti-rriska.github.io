@@ -1,0 +1,33 @@
+2 Abrade
+3 Glorybringer
+3 Sheltered Thicket
+2 Aethersphere Harvester
+4 Rogue Refiner
+4 Harnessed Lightning
+4 Whirler Virtuoso
+4 Longtusk Cub
+4 Attune with Aether
+4 Aether Hub
+1 Confiscation Coup
+3 Spirebluff Canal
+4 Servant of the Conduit
+4 Botanical Sanctum
+4 Bristling Hydra
+1 Rootbound Crag
+2 Magma Spray
+2 Mountain
+1 Island
+4 Forest
+
+Sideboard
+2 Carnage Tyrant
+1 Jace's Defeat
+1 Chandra's Defeat
+1 Sweltering Suns
+1 Vizier of Many Faces
+2 Chandra, Torch of Defiance
+2 Confiscation Coup
+1 Nissa, Vital Force
+2 Spell Pierce
+2 Negate
+

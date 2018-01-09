@@ -1,0 +1,26 @@
+1 Captain Lannery Storm
+4 Ruin Raider
+1 Ramunap Ruins
+4 Canyon Slough
+4 Dread Wanderer
+4 Heart of Kiran
+3 Fatal Push
+4 Scrapheap Scrounger
+3 Chandra, Torch of Defiance
+4 Syndicate Trafficker
+1 Key to the City
+4 Unlicensed Disintegration
+3 Bomat Courier
+2 Lightning Strike
+4 Dragonskull Summit
+8 Swamp
+6 Mountain
+
+Sideboard
+2 Walk the Plank
+3 Glorybringer
+2 Aethersphere Harvester
+1 Fatal Push
+3 Gifted Aetherborn
+4 Duress
+
